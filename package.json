@@ -23,6 +23,6 @@
     "prettier-plugin-apex": "^1.0.0"
   },
   "dependencies": {
-    "sfdx-cli": "^7.54.4"
+    "sfdx-cli": "^7.181.1"
   }
 }
